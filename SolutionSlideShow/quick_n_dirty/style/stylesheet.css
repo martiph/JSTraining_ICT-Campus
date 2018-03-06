@@ -1,0 +1,25 @@
+body{
+    background-color: #333333;
+    color: #cccccc;
+}
+
+main{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img{
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+button{
+    background-color: #333333;
+    border-color: #333333;
+    color: #cccccc;
+    vertical-align: middle;
+    margin: 1em;
+}
