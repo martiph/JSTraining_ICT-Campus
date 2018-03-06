@@ -1,16 +1,16 @@
-function myFunction(){
+function myFunction() {
     console.log("Hello");
 }
 
-function functionWithParams(a,b){
+function functionWithParams(a, b) {
     console.log(a + b);
 }
 
-function functionWithReturn(a,b){
+function functionWithReturn(a, b) {
     return a + b;
 }
 
-var someFunction = function(a,b){
+var someFunction = function (a, b) {
     console.log(a + b);
 }
 
